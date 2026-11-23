@@ -1,0 +1,216 @@
+
+.text
+{
+    display: flex;
+    justify-content: space-around;
+}
+body
+{
+
+
+  font-family: "Shantell Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "BNCE" 0,
+    "INFM" 0,
+    "SPAC" 0;
+}
+body
+{
+    background-color: orangered;
+}
+
+.img-1
+{
+    width: 100px;
+    height: 95px;
+}
+.img-3
+{
+    width: 1100px;
+    height: 700px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 15px  brown;
+
+}
+
+.img-2
+{
+    margin-left: x50px;
+}
+.box
+{
+    justify-content: space-around;
+    display: flex;
+    background-color: red;
+    width: 2000px;
+    margin-left: 250px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 15px  brown;
+}
+.box-1
+{
+
+    background-color: red;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 15px  brown;
+    width: 900px;
+    height: 1000px;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+.h1-1
+{
+    margin-top: 250px;
+    margin-left: 1225px;
+}
+.text-3
+{
+    background-color: red;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 10px  brown;
+}
+.box-2
+{
+    background-color: red;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 15px  brown;
+    width: 900px;
+    height: 1000px;
+    margin-left: 1500px;
+    margin-top: -1000px;
+}
+.img-4
+{
+    width: 950px;
+    height: 550px;
+    margin-top: -150px;
+}
+.text-4
+{
+    background-color: red;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 10px  brown;
+    margin-top: -50px;
+}
+.box-3
+{
+    background-color: red;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 15px  brown;
+    width: 900px;
+    height: 1000px;
+    margin-left: 250px;
+    margin-top: 250px;
+}
+.text-5
+{
+    background-color: red;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 10px  brown;
+}
+.img-5
+{
+    margin-top: -70px;
+}
+.box-4
+{
+    background-color: red;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 15px  brown;
+    width: 900px;
+    height: 1000px;
+    margin-left: 1500px;
+    margin-top: -1000px;
+}
+.img-6
+{
+    margin-top: -70px;
+}
+.text-6
+{
+    background-color: red;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 10px  brown;
+}
+.text-7
+{
+    margin-left: 1225px;
+    margin-top: 250px;
+}
+.box-5
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+    width: 2000px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 15px  brown;
+    margin-left: -850px;
+}
+.img-8
+{
+    width: 1150px;
+    height: 750px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 0 15px 15px  brown;
+    margin-top: 50px;
+}
+.text-9
+{
+    margin-left: 1225px;
+    margin-top: 250px;
+}
+.number
+{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+.number-2
+{
+    margin-left: 150px;
+}
+.a
+{
+    width: 50px;
+    height: 45px;
+}
